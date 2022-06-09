@@ -1,7 +1,7 @@
 ## Hello there! 👨‍💻
 - My name's Herbert Fuchs, but everyone just calls me **Fuchs** 😅
 
-> - I'm a beginner developer, currently focusing on Mobile Development with React Native 🤳
+- I'm a beginner developer, currently focusing on Mobile Development with React Native 🤳
 
 <div align="center">
   <a href="https://github.com/herbertfuchs">
@@ -22,7 +22,7 @@
   
   ##
   
- <div align="center">
+ <div>
   <a href = "mailto:hmcfuchs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/herbert-marcelo-cieslak-fuchs-983542201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
