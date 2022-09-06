@@ -1,7 +1,7 @@
 ## Hello there! 👨‍💻
 - My name's Herbert Fuchs, but everyone just calls me **Fuchs** 😅
 
-> - I'm a beginner developer, currently focusing on Mobile Development with React Native 🤳
+> - I'm a beginner developer from Brazil (🇧🇷), started developing from scratch in 2021 (what a year can do, right?) and nowadays I'm currently focusing on Mobile Development with React Native 🤳
 
 
 &nbsp;
