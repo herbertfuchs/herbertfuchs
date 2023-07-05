@@ -1,7 +1,7 @@
 ## Hello there! 👨‍💻
 - My name's Herbert Fuchs, but everyone just calls me **Fuchs** 😅
 
-> - I'm a JR developer from Brazil (🇧🇷), started developing from scratch in 2021 and nowadays I'm currently focusing on Mobile Development with React Native 🤳
+> - I'm a JR developer from Brazil (🇧🇷), started developing from scratch in 2021 and nowadays I'm currently focusing on Mobile Development with React Native 🤳 and Learning GO lang!
 
 
 &nbsp;
